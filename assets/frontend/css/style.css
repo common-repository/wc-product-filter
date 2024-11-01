@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.WCProductFilter.sidebar{}
+
+.WCProductFilter.sidebar input[type="text"], .WCProductFilter.sidebar input[type="search"],.WCProductFilter.sidebar input[type="text"], .WCProductFilter.sidebar select{
+    width: 100%;
+}
+
+.WCProductFilter.sidebar input[type="range"]{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.WCProductFilter.sidebar .label-wrapper{
+    width: 100%;
+    float: none;
+    vertical-align: top;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ededed;
+    padding: 10px 0;
+}
+
+
+.WCProductFilter.sidebar .field-wrapper{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+.WCProductFilter.sidebar input[type="submit"]{
+    width: 100%;
+}
+
+
+
+
+
+
+/*At top*/
+
+
+.WCProductFilter{
+    margin: 20px 0;
+    clear: both;
+    display: block;
+}
+
+.WCProductFilter .field-wrapper{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ededed;
+}
+.WCProductFilter .field-wrapper:last-child{
+    border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+
+
+.WCProductFilter .label-wrapper{
+    width: 260px;
+    float: left;
+    vertical-align: top;
+}
+
+.WCProductFilter .input-wrapper{}
+.WCProductFilter .input-wrapper #price-display{
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.WCProductFilter input[type="text"], .WCProductFilter input[type="search"],.WCProductFilter input[type="text"], .WCProductFilter select{
+    width: 330px;
+}
+
+.WCProductFilter input[type="range"]{
+    width: 330px;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.WCProductFilter.agruments{}
+
+.products.loading{
+ opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

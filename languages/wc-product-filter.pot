@@ -1,0 +1,139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Shop Filter\n"
+"POT-Creation-Date: 2018-11-06 11:38+0600\n"
+"PO-Revision-Date: 2018-10-10 20:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: includes/class-widget-wc-product-filter.php:13
+#: includes/class-widget-wc-product-filter.php:32
+msgid "WC Product Filter"
+msgstr ""
+
+#: includes/class-widget-wc-product-filter.php:13
+msgid "Display WooCommerce Product Filter"
+msgstr ""
+
+#: includes/class-widget-wc-product-filter.php:37
+msgid "Title"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:297
+msgid "Keyword"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:300
+msgid "Type Keyword"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:347
+msgid "Price range"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:404
+msgid "Categories"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:451
+msgid "Color"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:505
+msgid "Size"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:561
+msgid "Tags"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:565
+msgid "Tag 1, Tag 2"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:595
+msgid "Order"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:599
+msgid "DESC"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:600
+msgid "ASC"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:620
+msgid "Product Price"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:621
+msgid "Product Date"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:622
+msgid "Product Rating"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:623
+msgid "Product Popularity"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:624
+msgid "Product Title"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:625
+msgid "Randomly"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:626
+msgid "Menu Order"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:635
+msgid "Orderby"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:639
+msgid "None"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:668
+msgid "Display Onsale"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:690
+msgid "In stock"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:721
+msgid "Product types"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:765
+msgid "SKU"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:801
+msgid "Custom Input"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter-hook.php:804
+msgid "Custom input"
+msgstr ""
+
+#: templates/WCProductFilter/WCProductFilter.php:12
+msgid "Submit"
+msgstr ""
